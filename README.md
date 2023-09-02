@@ -1,8 +1,10 @@
 ### Olá! Sou o Carlos Jeannatan 👨‍💻
-Rede Social
-<div style="display: inline_block"><br/>
+Rede Social<div style="display: inline_block"><br/>
 
 [![Rede Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/carlos.jeannatan)
+<div style="display: inline_block"><br/>
+Status GitHub
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeannatan&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeannatan&hide_progress=true)
 
