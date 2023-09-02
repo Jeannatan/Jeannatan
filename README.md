@@ -6,6 +6,8 @@ Rede Social<div style="display: inline_block"><br/>
 Status GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeannatan&show_icons=true&theme=tokyonight)
+<div style="display: inline_block"><br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeannatan&hide_progress=true)
 
 ## Tecnologia em Estudos
