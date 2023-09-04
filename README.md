@@ -18,3 +18,5 @@ Status GitHub
 ## Horas Vagas
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+
+![snake gif](https://github.com/Jeannatan/blob/output/github-contribution-grid-snake.gif)
